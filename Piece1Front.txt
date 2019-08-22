@@ -1,0 +1,8 @@
+NW,N,N,N,NE,NW,N,N
+W,X,X,X,X,X,X,X
+SW,X,X,X,X,X,SEBH,W
+NW,X,S,X,X,X,N,X
+W,X,NEGC,SWRT,X,X,X,X,
+W,X,X,N,X,S,X,X,
+W,X,X,X,E,NWYQ,X,S
+W,X,X,X,X,X,E,NW
